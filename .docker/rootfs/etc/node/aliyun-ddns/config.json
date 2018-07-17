@@ -1,0 +1,5 @@
+{
+  "AccessKeyId": "{{ACCESSKEYID}}",
+  "AccessKeySecret": "{{ACCESSKEYSERECT}}",
+  "hostnames": ["{{DDNS_DOMAIN}}"]
+}
