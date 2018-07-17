@@ -1,0 +1,2 @@
+#!/bin/bash
+nodejs /srv/node/app/app.js
