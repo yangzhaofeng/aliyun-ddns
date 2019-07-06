@@ -1,4 +1,4 @@
-FROM smartentry/debian:stretch
+FROM smartentry/debian:stable
 MAINTAINER Steven Yang <yangzhaofengsteven@gmail.com>
 
 COPY .docker $ASSETS_DIR
